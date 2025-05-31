@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fyoz</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fyoz&label=Profile%20views&color=0e75b6&style=flat" alt="fyoz" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fyoz" alt="fyoz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +18,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wussefe9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wussefe9" /></a><a href="https://ko-fi.com/fyoze"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fyoze" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fyoz&show_icons=true&locale=en&layout=compact" alt="fyoz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fyoz&show_icons=true&locale=en" alt="fyoz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fyoz&show_icons=true&locale=en&layout=compact" alt="fyoz" /></p>
